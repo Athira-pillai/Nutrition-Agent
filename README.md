@@ -106,7 +106,8 @@ Proposed Solution - Generative AI presents a groundbreaking opportunity to revol
  - Social + gamified wellness ecosystems with shared meal plans and AI coaching
 
 
-# 🔗 linkedin (www.linkedin.com/in/athira-pillai-12325633b)
+
+#🔗 linkedin (www.linkedin.com/in/athira-pillai-12325633b)
 
 
 

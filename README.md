@@ -46,4 +46,64 @@ Proposed Solution - Generative AI presents a groundbreaking opportunity to revol
  - Wellness Programs
 
 
+# 📸 Screenshots
+# Setting up
+ 
+![App Screenshot](https://github.com/Athira-pillai/Nutrition-Agent/blob/main/Screenshot%20(84).png?raw=true)
+
+
+## Agent Instructions
+
+![App Screenshot](https://github.com/Athira-pillai/Nutrition-Agent/blob/main/Screenshot%20(86).png?raw=true)
+
+
+## Tools Used 
+
+![App Screenshot](https://github.com/Athira-pillai/Nutrition-Agent/blob/main/Screenshot%20(85).png?raw=true)
+
+
+## Agent Deployment And Preview
+
+![App Screenshot](https://github.com/Athira-pillai/Nutrition-Agent/blob/main/Screenshot%20(91).png?raw=true)
+
+
+## API References
+
+![App Screenshot](https://github.com/Athira-pillai/Nutrition-Agent/blob/main/Screenshot%20(105).png?raw=true)
+
+
+## Sample Queries
+
+![App Screenshot](https://github.com/Athira-pillai/Nutrition-Agent/blob/main/Screenshot%20(92).png?raw=true)
+
+![App Screenshot](https://github.com/Athira-pillai/Nutrition-Agent/blob/main/Screenshot%20(93).png?raw=true)
+
+![App Screenshot](https://github.com/Athira-pillai/Nutrition-Agent/blob/main/Screenshot%20(94).png?raw=true)
+
+![App Screenshot](https://github.com/Athira-pillai/Nutrition-Agent/blob/main/Screenshot%20(96).png?raw=true)
+
+
+## Resource List
+
+![App Screenshot](https://github.com/Athira-pillai/Nutrition-Agent/blob/main/Screenshot%20(110).png?raw=true)
+
+
+## Conclusion
+
+ - The agent delivers highly tailored meal plans, grocery lists, and lifestyle nudges that adapt in real time to each user’s habits, goals, and preferences.
+ - The AI handles the “what, when, and how” of daily nutrition.
+ - It intelligently using inputs like habits, preferences, and activity, the agent transforms raw data into meaningful food choices, without user overwhelm.
+
+
+## Future Scope
+
+ - Integration with smart kitchens
+ - Voice-first nutrition assistants on devices like Alexa, Siri, or in cars
+ - Augmented reality (AR) meal planning 
+ - Emotion-aware food recommendations based on mood or stress levels
+ - AI-guided food discovery personalized by taste, culture, and location
+ - Sustainability tracking — AI suggests eco-friendly or low-waste diets
+ - Social + gamified wellness ecosystems with shared meal plans and AI coaching
+
+
 
